@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { sum } from '@/sum.js'
+import { sum } from '../sum.js'
 
 describe('intro/sum', () => {
   describe('Функция sum', () => {
